@@ -12,8 +12,8 @@ So the room reaches further than the room. So partners can carry
 their seven minutes wherever it serves them. So the public archive
 keeps growing, edition by edition.
 
-The promise of the Fire Pit is that the 2026 conversations will
-still be worth watching in 2028. This folder is how that promise
+The promise of the Fire Pit is that the 2027 conversations will
+still be worth watching in 2029. This folder is how that promise
 gets kept.
 
 ## What gets recorded
@@ -31,7 +31,7 @@ part begins. The two hours that follow are not on tape, by design.
 ```
 recordings/
 ├── README.md (this file)
-├── 2026-Q1/
+├── 2027-Q1/
 │   ├── README.md         (edition recording index)
 │   ├── 00-welcome.md     (link + transcript notes for the welcome)
 │   ├── 01-partner-1.md   (link + notes for partner 1's pitch)
@@ -39,7 +39,7 @@ recordings/
 │   ├── 03-partner-3.md
 │   ├── 04-qa.md          (link + notes for the Q&A)
 │   └── 05-wrap.md
-├── 2026-Q2/
+├── 2027-Q2/
 └── ...
 ```
 
@@ -73,11 +73,11 @@ when they do.
 
 ## Index
 
-_Recordings will appear here after the first Fire Pit._
+_The Fire Pit starts in 2027. Recordings will appear here after the first edition._
 
 <!--
 Example once editions exist:
 
-- [**2026-Q1**](2026-Q1/) · 2026-03-19 · Boutique ISVs meet hyperscaler partner programmes
-- [**2026-Q2**](2026-Q2/) · 2026-06-18 · Maintainers and the companies built on top
+- [**2027-Q1**](2027-Q1/) · 2027-03-19 · Boutique ISVs meet hyperscaler partner programmes
+- [**2027-Q2**](2027-Q2/) · 2027-06-18 · Maintainers and the companies built on top
 -->
