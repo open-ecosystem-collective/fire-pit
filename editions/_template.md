@@ -1,4 +1,4 @@
-# Roundtable YYYY-QN
+# Fire Pit YYYY-QN
 
 > Short one-line theme of the evening.
 
@@ -72,5 +72,5 @@ Specifics go in the post-evening feedback issue.
 
 ---
 
-> Edition entry for the Roundtable held on YYYY-MM-DD.
-> Part of the [Open Ecosystem Collective Roundtables](https://open-ecosystem-collective.com/roundtables.html).
+> Edition entry for the Fire Pit held on YYYY-MM-DD.
+> Part of the [Open Ecosystem Fire Pit](https://open-ecosystem-collective.com/fire-pit.html).

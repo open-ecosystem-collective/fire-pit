@@ -1,15 +1,15 @@
 # Editions
 
-Each Roundtable gets its own entry here, with date, partners on stage,
+Each Fire Pit gets its own entry here, with date, partners on stage,
 themes, host venue, and a link to the recordings once they are published.
 
-The Roundtables of 2026 will still be worth watching in 2028.
+The Fire Pits of 2026 will still be worth watching in 2028.
 This folder is how that promise gets kept.
 
 ## How to add a new edition
 
 1. Copy `_template.md` to a new file named `YYYY-QN.md`
-   (e.g. `2026-Q1.md` for the first Roundtable of 2026)
+   (e.g. `2026-Q1.md` for the first Fire Pit of 2026)
 2. Fill in the placeholders
 3. Add the new edition to the index below, newest first
 4. Open a PR or commit directly if you have rights
@@ -27,7 +27,7 @@ Example once editions exist:
 
 ## Schedule
 
-Roundtables happen quarterly. Approximate windows:
+The Fire Pit happens quarterly. Approximate windows:
 
 | Quarter | Window           |
 |---------|------------------|
