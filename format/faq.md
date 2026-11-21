@@ -139,8 +139,8 @@ not the room.
 This repository, under [recordings/](../recordings/), with mirror
 links to YouTube and the partners' own channels.
 
-The point of the archive is that the Fire Pits of 2026 will
-still be worth watching in 2028. The repository is the canonical
+The point of the archive is that the Fire Pits of 2027 will
+still be worth watching in 2029. The repository is the canonical
 location.
 
 ## On the bigger picture
