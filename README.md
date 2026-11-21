@@ -1,9 +1,9 @@
-# OEC Roundtables
+# Open Ecosystem Fire Pit
 
 > A quarterly community ritual based on the Open Ecosystem Collective.
 > Three voices, one circle, an honest hour. Community over Code.
 
-[![Website](https://img.shields.io/badge/website-open--ecosystem--collective.com-C9A84C?style=flat-square)](https://open-ecosystem-collective.com/roundtables.html)
+[![Website](https://img.shields.io/badge/website-open--ecosystem--collective.com-C9A84C?style=flat-square)](https://open-ecosystem-collective.com/fire-pit.html)
 [![Meetup](https://img.shields.io/badge/meetup-open--ecosystem--collective-9B84C2?style=flat-square)](https://meetup.com/open-ecosystem-collective)
 [![License](https://img.shields.io/badge/license-CC--BY--SA%204.0-7A7A8E?style=flat-square)](LICENSE)
 
@@ -13,7 +13,7 @@ Four times a year, we gather. Three voices from the cloud-native ecosystem
 in DACH, one circle of seven-minute pitches, an honest hour after.
 Recorded, kept, carried out into the world.
 
-The Roundtables are the community arm of the
+The Open Ecosystem Fire Pit is the community arm of the
 [Open Ecosystem Collective](https://open-ecosystem-collective.com),
 where the methodology gets faces and the partner landscape gets voices.
 
@@ -78,19 +78,19 @@ If anything ever changes, it will change visibly, in writing, here.
 
 ## Get involved
 
-- **Website:** [open-ecosystem-collective.com/roundtables.html](https://open-ecosystem-collective.com/roundtables.html)
+- **Website:** [open-ecosystem-collective.com/fire-pit.html](https://open-ecosystem-collective.com/fire-pit.html)
 - **Meetup:** [meetup.com/open-ecosystem-collective](https://meetup.com/open-ecosystem-collective)
 - **Collective:** [github.com/open-ecosystem-collective](https://github.com/open-ecosystem-collective)
 
 ## Support the work
 
-The Roundtables are free to attend. Partners on stage cover the food
+The Fire Pit is free to attend. Partners on stage cover the food
 and drinks for the evening. VRC carries the rest: the moderation, the
 recordings, the editing, the meetup logistics, the website, the
 governance, the slow work of building this into something the whole
 ecosystem can rely on.
 
-If the Roundtables, the methodology, or the wider Open Ecosystem
+If the Fire Pit, the methodology, or the wider Open Ecosystem
 Collective have been useful to you and you want to help the work
 keep growing, donations to VRC are gratefully received. They go
 toward building the business behind the Collective and toward
@@ -107,7 +107,7 @@ What donations do **not** buy:
 
 What they support:
 
-- Keeping the Roundtables free for attendees
+- Keeping the Fire Pit free for attendees
 - Keeping the methodology open under CC-BY-SA 4.0
 - Time to do the work between editions: editing, writing,
   reaching out, growing the format
