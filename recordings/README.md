@@ -1,6 +1,6 @@
 # Recordings
 
-Every pitch from every Roundtable, recorded and published.
+Every pitch from every Fire Pit, recorded and published.
 
 Each edition has its own subfolder with the three seven-minute clips
 and their metadata. Partners are free to use their own clip wherever
@@ -12,7 +12,7 @@ So the room reaches further than the room. So partners can carry
 their seven minutes wherever it serves them. So the public archive
 keeps growing, edition by edition.
 
-The promise of the Roundtables is that the 2026 conversations will
+The promise of the Fire Pit is that the 2026 conversations will
 still be worth watching in 2028. This folder is how that promise
 gets kept.
 
@@ -68,12 +68,12 @@ All recordings published under
 [CC-BY-SA 4.0](../LICENSE), same as the rest of the Collective.
 
 Partners retain rights to their own pitch clip and can re-use it
-without attribution back to the Roundtable, though we appreciate
+without attribution back to the Fire Pit, though we appreciate
 when they do.
 
 ## Index
 
-_Recordings will appear here after the first Roundtable._
+_Recordings will appear here after the first Fire Pit._
 
 <!--
 Example once editions exist:
