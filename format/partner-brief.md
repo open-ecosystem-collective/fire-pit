@@ -18,7 +18,7 @@ Concretely, the room should walk away knowing:
 - **Where you fit** - how you collaborate inside the cloud-native ecosystem
 - **When to work with you** - the signal that says "this is the moment to talk"
 
-The Roundtables exist because logos do not build trust. People do.
+The Fire Pit exists because logos do not build trust. People do.
 A pitch that lands gives the room a face, a competence, and a clear
 sense of when to pick up the phone.
 
@@ -114,7 +114,7 @@ conversation will serve them, and they will serve the conversation.
 
 The customers do not have to be your customers. Someone working at a
 company in your space, someone you have been wanting to talk to, a
-peer from a partner company - all count. The Roundtables work because
+peer from a partner company - all count. The Fire Pit works because
 the room is composed by hand, not by registration form.
 
 ## After the evening
@@ -144,7 +144,7 @@ most partners take one.
 
 ## What the venue host carries
 
-Each Roundtable is held at a venue in Zurich, offered by a partner who
+Each Fire Pit is held at a venue in Zurich, offered by a partner who
 believes in what the Collective is building. The host gets:
 
 - A quiet thank-you in the welcome

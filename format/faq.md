@@ -26,7 +26,7 @@ without it becoming a job.
 
 The DACH cloud-native scene has a centre of gravity here. Easy to
 reach from Bern, Basel, Geneva, Munich, Stuttgart, Milan. The
-Roundtables may travel to other cities later, but the home stays here.
+The Fire Pit may travel to other cities later, but the home stays here.
 
 ### Why in person?
 
@@ -38,13 +38,13 @@ call. The two hours after 18:10 are the reason for the whole format.
 ### Why no sponsorship fee?
 
 Money introduces the wrong gravity. Once a partner pays for a stage,
-the conversation tilts toward what they want said. The Roundtables
-work because the only thing partners pay for is their share of the
+the conversation tilts toward what they want said. The Fire Pit
+works because the only thing partners pay for is their share of the
 food and drinks. The investment is presence, not budget.
 
 ## On being a partner
 
-### Can my company sponsor the Roundtables?
+### Can my company sponsor the Fire Pit?
 
 No, not in the usual sponsorship sense. Companies can:
 - Be invited as a voice on stage
@@ -76,7 +76,7 @@ composed by hand, not by registration form.
 ### What happens if I have to cancel?
 
 Tell us as soon as you know. Two voices on stage is a fine
-Roundtable. We do not scramble for a replacement.
+Fire Pit. We do not scramble for a replacement.
 
 ### Do I get the recording?
 
@@ -91,7 +91,7 @@ presentation, anywhere it serves you. The clip is yours.
 ### How do I get on the guest list?
 
 [Join the Meetup group](https://meetup.com/open-ecosystem-collective).
-Each Roundtable opens RSVPs there. Guest list is capped, first
+Each Fire Pit opens RSVPs there. Guest list is capped, first
 RSVPs in, first served.
 
 ### Where is the venue?
@@ -139,7 +139,7 @@ not the room.
 This repository, under [recordings/](../recordings/), with mirror
 links to YouTube and the partners' own channels.
 
-The point of the archive is that the Roundtables of 2026 will
+The point of the archive is that the Fire Pits of 2026 will
 still be worth watching in 2028. The repository is the canonical
 location.
 
@@ -147,34 +147,34 @@ location.
 
 ### How is this different from a meetup?
 
-Meetups are usually one-format, one-host, one-channel. The Roundtables
-are designed as a public archive first, a community evening second.
+Meetups are usually one-format, one-host, one-channel. The Fire Pit
+is designed as a public archive first, a community evening second.
 The recording, the editions index, the partner brief - all of that
 exists because the format is meant to outlive any single evening.
 
 ### How is this different from a conference?
 
 A conference is once a year, big room, dozens of voices, marketing
-booth in the lobby. A Roundtable is four times a year, small room,
+booth in the lobby. A Fire Pit is four times a year, small room,
 three voices, no booth, no logos.
 
-Conferences are how an ecosystem announces itself. Roundtables
-are how it gets to know itself.
+Conferences are how an ecosystem announces itself. The Fire Pit
+is how it gets to know itself.
 
 ### How does this connect to the rest of the OEC?
 
 The [Open Ecosystem Collective](https://github.com/open-ecosystem-collective)
 publishes a methodology for partner ecosystem management. The
 methodology is the **what** and the **how** of running partnerships.
-The Roundtables are where the methodology gets faces and the partner
+The Fire Pit is where the methodology gets faces and the partner
 landscape gets voices.
 
 In a sentence: the methodology repo is for partner managers, the
-Roundtables are for everyone who builds a partner ecosystem in DACH.
+The Fire Pit is for everyone who builds a partner ecosystem in DACH.
 
 ### Who can I talk to?
 
-For anything Roundtables-specific, open an issue here. For
+For anything Fire Pit-specific, open an issue here. For
 anything OEC-wide, the [collective profile](https://github.com/open-ecosystem-collective)
 points to the right repo. For VRC mandates,
 [vonarburg-romero-consulting.com](https://vonarburg-romero-consulting.com).

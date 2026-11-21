@@ -90,7 +90,7 @@ Bad reserve questions:
 ## When something goes wrong
 
 **A partner cancels last minute:**
-- Two-voice Roundtable is fine. Do not scramble for a replacement.
+- Two-voice Fire Pit is fine. Do not scramble for a replacement.
 - Adjust the pitch window: 14 minutes for two voices, 7 each.
 - The Q&A absorbs the extra time.
 
