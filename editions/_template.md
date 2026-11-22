@@ -1,12 +1,12 @@
-# Fire Pit YYYY-QN
+# Fire Pit YYYY-MM-DD
 
 > Short one-line theme of the evening.
 
 ## When
 
 **Date:** YYYY-MM-DD
-**Time:** 17:00 - 20:00
-**Venue:** Somewhere in Zurich (address shared with confirmed RSVPs)
+**Time:** 17:00 to 20:00
+**Venue:** [Town], Switzerland (address shared with confirmed RSVPs)
 
 ## On stage
 
@@ -15,11 +15,11 @@
 | Partner 1     | [Org name](https://example.com) | Brief description            |
 | Partner 2     | [Org name](https://example.com) | Brief description            |
 | Partner 3     | [Org name](https://example.com) | Brief description            |
-| Moderator     | Tania Vonarburg-Romero         | VRC, OEC                     |
+| Moderator     | [Name]                         | [Organisation]               |
 
 ## Host
 
-Hosted by **[Host org name]** at their venue in Zurich.
+Hosted by **[Host org name]** at their venue in [Town].
 A quiet thank-you to the host for opening their space.
 
 ## Themes
@@ -40,9 +40,9 @@ Two to four short bullets on what the evening was about:
 
 Once edited (within two weeks of the evening):
 
-- [Partner 1 - Pitch title (7 min)](../recordings/YYYY-QN/partner-1.md)
-- [Partner 2 - Pitch title (7 min)](../recordings/YYYY-QN/partner-2.md)
-- [Partner 3 - Pitch title (7 min)](../recordings/YYYY-QN/partner-3.md)
+- [Partner 1: Pitch title (7 min)](../recordings/YYYY-MM-DD/partner-1.md)
+- [Partner 2: Pitch title (7 min)](../recordings/YYYY-MM-DD/partner-2.md)
+- [Partner 3: Pitch title (7 min)](../recordings/YYYY-MM-DD/partner-3.md)
 
 ## What came up in the Q&A
 

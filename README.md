@@ -1,6 +1,6 @@
 # Open Ecosystem Fire Pit
 
-> A quarterly community ritual based on the Open Ecosystem Collective.
+> A community ritual based on the Open Ecosystem Collective.
 > Three voices, one circle, an honest hour. Community over Code.
 
 [![Website](https://img.shields.io/badge/website-open--ecosystem--collective.com-C9A84C?style=flat-square)](https://open-ecosystem-collective.com/fire-pit.html)
@@ -9,9 +9,9 @@
 
 ## What this is
 
-Four times a year, we gather. Three voices from the cloud-native ecosystem
+We gather around a fire. Three voices from the cloud-native ecosystem
 in DACH, one circle of seven-minute pitches, an honest hour after.
-Recorded, kept, carried out into the world.
+Every pitch is recorded and carried out into the world.
 
 The Open Ecosystem Fire Pit is the community arm of the
 [Open Ecosystem Collective](https://open-ecosystem-collective.com),
@@ -19,10 +19,10 @@ where the methodology gets faces and the partner landscape gets voices.
 
 ## At a glance
 
-- **Cadence:** Quarterly, four evenings a year
 - **Time:** 17:00 to 20:00
-- **Venue:** Somewhere in Zurich, the address travels with the RSVP
-- **On stage:** Three orgs per evening, the cast turns with the season
+- **Venue:** Anywhere in Switzerland, the address travels with the RSVP
+- **On stage:** Three partners per evening, a different cast every time
+- **Room:** Around 30 humans, invited by hand
 - **Recorded:** Every pitch is published, every partner keeps their own clip
 - **Format:** Lightning pitches, moderated Q&A, conversation until close
 
@@ -62,15 +62,15 @@ that keep coming up.
 
 1. **Raise the level** by making the craft of partner management visible
 2. **Give smaller cloud-native companies a stage** they would not otherwise get
-3. **Build a place where the ecosystem can see itself**, four times a year
+3. **Build a place where the ecosystem can see itself**, evening after evening
 4. **Leave behind an honest archive** of unguarded partnership conversations
 
 ## The arrangement
 
 Three roles carry the evening:
 
-- **Organisation** by [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com)
-- **Venue** offered by a quiet host in Zurich
+- **Organisation** by whoever carries the edition: [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com) today, or anyone else who wants to carry and host a Fire Pit with the same format and rules
+- **Venue** offered by a quiet host, anywhere in Switzerland
 - **Food, drinks, merch** jointly sponsored by the three voices on stage
 
 No hidden sponsors. No pay-to-stage. No membership tiers.
@@ -85,7 +85,7 @@ If anything ever changes, it will change visibly, in writing, here.
 ## Support the work
 
 The Fire Pit is free to attend. Partners on stage cover the food
-and drinks for the evening. VRC carries the rest: the moderation, the
+and drinks for the evening. The organiser, today VRC, carries the rest: the moderation, the
 recordings, the editing, the meetup logistics, the website, the
 governance, the slow work of building this into something the whole
 ecosystem can rely on.
@@ -94,7 +94,7 @@ If the Fire Pit, the methodology, or the wider Open Ecosystem
 Collective have been useful to you and you want to help the work
 keep growing, donations to VRC are gratefully received. They go
 toward building the business behind the Collective and toward
-professionalising the Open Ecosystem - the kind of work that makes
+professionalising the Open Ecosystem, the kind of work that makes
 the next edition, the next playbook, the next set of recordings
 possible.
 
@@ -121,7 +121,7 @@ explain what is possible from there.
 ## License
 
 [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE).
-The format, the methodology, the writing - all shared openly under the
+The format, the methodology, the writing: all shared openly under the
 same license as the rest of the Collective.
 
 ---
@@ -129,5 +129,5 @@ same license as the rest of the Collective.
 > «Community over Code.»
 >
 > Founded by [Tania Vonarburg-Romero](https://vonarburg-romero-consulting.com).
-> Part of [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com) · Säule I.
+> Part of [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com).
 > Based on the [Open Ecosystem Collective](https://open-ecosystem-collective.com).

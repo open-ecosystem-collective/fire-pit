@@ -15,24 +15,22 @@ more voices are on stage, because the room has to spread its attention.
 Long enough to land one story with one lesson. Short enough that
 people prepare seriously, because they cannot hide behind padding.
 
-### Why quarterly?
+### How often does it happen?
 
-Conferences come once a year, and the rooms are too big to learn
-anyone's name. A monthly meetup turns into an obligation. Quarterly
-is the rhythm where the same faces start to recognise each other
-without it becoming a job.
+Whenever an edition is ready: three voices, a host and someone to
+carry the evening. There is no fixed number a year, and every date
+is announced on the Meetup group.
 
-### Why Zurich?
+### Where does it happen?
 
-The DACH cloud-native scene has a centre of gravity here. Easy to
-reach from Bern, Basel, Geneva, Munich, Stuttgart, Milan. The
-The Fire Pit may travel to other cities later, but the home stays here.
+Anywhere in Switzerland, wherever a partner offers the room. The
+address travels with the RSVP.
 
 ### Why in person?
 
 A virtual format would reach more people, and we may run one later
-for that reason. But the part of the evening that matters most -
-the conversation after the formal part - does not work over a video
+for that reason. But the part of the evening that matters most
+(the conversation after the formal part) does not work over a video
 call. The two hours after 18:10 are the reason for the whole format.
 
 ### Why no sponsorship fee?
@@ -91,8 +89,8 @@ presentation, anywhere it serves you. The clip is yours.
 ### How do I get on the guest list?
 
 [Join the Meetup group](https://meetup.com/open-ecosystem-collective).
-Each Fire Pit opens RSVPs there. Guest list is capped, first
-RSVPs in, first served.
+Each Fire Pit opens RSVPs there. The room is capped at around 30
+humans, first RSVPs in, first served.
 
 ### Where is the venue?
 
@@ -149,13 +147,13 @@ location.
 
 Meetups are usually one-format, one-host, one-channel. The Fire Pit
 is designed as a public archive first, a community evening second.
-The recording, the editions index, the partner brief - all of that
+The recording, the editions index, the partner brief: all of that
 exists because the format is meant to outlive any single evening.
 
 ### How is this different from a conference?
 
 A conference is once a year, big room, dozens of voices, marketing
-booth in the lobby. A Fire Pit is four times a year, small room,
+booth in the lobby. A Fire Pit is a small room,
 three voices, no booth, no logos.
 
 Conferences are how an ecosystem announces itself. The Fire Pit
@@ -170,7 +168,7 @@ The Fire Pit is where the methodology gets faces and the partner
 landscape gets voices.
 
 In a sentence: the methodology repo is for partner managers, the
-The Fire Pit is for everyone who builds a partner ecosystem in DACH.
+Fire Pit is for everyone who builds a partner ecosystem in DACH.
 
 ### Who can I talk to?
 
