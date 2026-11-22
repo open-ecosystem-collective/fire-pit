@@ -12,13 +12,13 @@ core business and where collaboration with you makes sense.
 
 Concretely, the room should walk away knowing:
 
-- **What you do** - your knowledge, your services, your products
-- **Who you are** - the humans behind the logo, not the wordmark
-- **Why you exist** - the core business in one clear sentence
-- **Where you fit** - how you collaborate inside the cloud-native ecosystem
-- **When to work with you** - the signal that says "this is the moment to talk"
+- **What you do**: your knowledge, your services, your products
+- **Who you are**: the humans behind the logo, not the wordmark
+- **Why you exist**: the core business in one clear sentence
+- **Where you fit**: how you collaborate inside the cloud-native ecosystem
+- **When to work with you**: the signal that says "this is the moment to talk"
 
-The Fire Pit exists because logos do not build trust. People do.
+The Fire Pit exists because trust grows between humans, not logos.
 A pitch that lands gives the room a face, a competence, and a clear
 sense of when to pick up the phone.
 
@@ -114,41 +114,42 @@ conversation will serve them, and they will serve the conversation.
 
 The customers do not have to be your customers. Someone working at a
 company in your space, someone you have been wanting to talk to, a
-peer from a partner company - all count. The Fire Pit works because
+peer from a partner company: all count. The Fire Pit works because
 the room is composed by hand, not by registration form.
 
 ## After the evening
 
 You get your seven-minute clip, edited and ready to use wherever
-serves you - on your site, in a post, on a careers page, in front
+serves you: on your site, in a post, on a careers page, in front
 of a customer who wants to see the face behind the wordmark.
 
 The clip is the artefact that keeps working long after the evening
 ends. Partners often find that one well-prepared seven-minute pitch
 becomes their default "this is who we are" video for the next year.
 
-## What VRC carries
+## What the organiser carries
 
-While you bring the pitch, the people, and the hospitality share,
-VRC carries:
+Today the organiser is VRC. Anyone else can carry and host an edition
+with the same format and rules. While you bring the pitch, the people,
+and the hospitality share, the organiser carries:
 
-- Choosing the three voices on stage (curating the season's cast)
+- Choosing the three voices on stage (curating each evening's cast)
 - Coaching each speaker through pitch prep, if useful
 - Holding the moderator's seat for the formal hour
 - The meetup group, the guest list, the day-of logistics
 - Recording, editing, publishing the clips
-- The format itself, across the seasons
+- The format itself, edition after edition
 
 If you want a pitch prep call, ask. It is free, it is included, and
 most partners take one.
 
 ## What the venue host carries
 
-Each Fire Pit is held at a venue in Zurich, offered by a partner who
+Each Fire Pit is held at a venue anywhere in Switzerland, offered by a partner who
 believes in what the Collective is building. The host gets:
 
 - A quiet thank-you in the welcome
 - A line in the edition entry on GitHub
-- Discretion - the venue is not promoted publicly
+- Discretion: the venue is not promoted publicly
 
 Hosting is the signal. We do not write a sponsorship logo on the door.
