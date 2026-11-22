@@ -8,8 +8,8 @@ This folder is how that promise gets kept.
 
 ## How to add a new edition
 
-1. Copy `_template.md` to a new file named `YYYY-QN.md`
-   (e.g. `2027-Q1.md` for the first Fire Pit of 2027)
+1. Copy `_template.md` to a new file named after the date, `YYYY-MM-DD.md`
+   (e.g. `2027-03-19.md`)
 2. Fill in the placeholders
 3. Add the new edition to the index below, newest first
 4. Open a PR or commit directly if you have rights
@@ -21,20 +21,12 @@ _The Fire Pit starts in 2027. The first edition will appear here._
 <!--
 Example once editions exist:
 
-- [**2027-Q1** · 2027-03-19 · Boutique ISVs meet hyperscaler partner programmes](2027-Q1.md)
-- [**2027-Q2** · 2027-06-18 · Maintainers and the companies built on top](2027-Q2.md)
+- [**2027-03-19** · Boutique ISVs meet hyperscaler partner programmes](2027-03-19.md)
+- [**2027-06-18** · Maintainers and the companies built on top](2027-06-18.md)
 -->
 
 ## Schedule
 
-The Fire Pit happens quarterly. Approximate windows:
-
-| Quarter | Window           |
-|---------|------------------|
-| Q1      | Late February to mid March |
-| Q2      | Mid May to mid June        |
-| Q3      | Mid September to mid October |
-| Q4      | Mid November to early December |
-
-Exact dates land six to eight weeks before each edition, on
+There is no fixed number of editions a year. Each date lands six to
+eight weeks before the edition, on
 [the Meetup group](https://meetup.com/open-ecosystem-collective).
